@@ -1,3 +1,5 @@
 export const environment = {
-  production: true
+  production: true,
+  apiUrl: 'https://api.example.com/api', // Placeholder for Production API URL
+  environmentName: 'Production'
 };
